@@ -475,7 +475,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 auto 25px auto;
   list-style: none;
   text-align: center;
-  background: rgb(0, 176, 240);
+  background: rgba(19, 19, 19, 0.226);
   border-radius: 50px;
   padding: 2px 15px;
 }
@@ -487,7 +487,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #0000005d;
+  color: #00000073;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
